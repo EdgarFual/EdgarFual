@@ -27,19 +27,16 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I'm currently working on Database.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I'm currently learning the latest trends in web programming and cloud databases.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I have a great interest in programming and databases.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I wrote a research with real-time object recognition for people with visual disabilities.**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 My communication to edgarfuentesalvardo@gmail.com **
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
